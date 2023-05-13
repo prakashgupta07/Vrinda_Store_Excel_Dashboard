@@ -1,38 +1,36 @@
 # About The Project
-Compilation of Tableau projects for data analysis, data analytics and data visualization.
+Compilation of Excel projects for data analysis, data analytics and data visualization.
 
 ## Built with
 ---
-+ Tableau Public
++ Microsoft Excel
 
-## Live Demo
+## Dashboard Screenshot
 ---
-+ [view Project Details on Tableau Public](https://public.tableau.com/app/profile/prakash.gupta4196/viz/NetflixDashboard_16814091292620/Dashboard1)
 
-![Project Screenshot](https://raw.githubusercontent.com/prakashgupta07/Tableau_Netflix_Analysis/main/netflix%20dashboard.png)
+![Project Screenshot](https://raw.githubusercontent.com/prakashgupta07/Vrinda_Store_Excel_Dashboard/main/Vrinda%20Store%20Excel%20Dashboard%20.png)
 
 
 ## Datasets
 ---
-+ [refer to Resources folder.](https://github.com/prakashgupta07/Tableau_Netflix_Analysis/tree/main/Resourse)
++ [refer to Resources folder.](https://github.com/prakashgupta07/Vrinda_Store_Excel_Dashboard/tree/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ## About the DataSet
 ---
-+ Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
++ Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
 
 ## Interesting task insights-
 ---
 
-+  Movies and TV shows distribution.
-+  Total movies and  TV shows By Countrys.
-+  Total movies and TV shows by each years.
-+  Ratings for each movie and TV show.
-+  Providing a clear visual insights of the movie and TV show telling its ratings, duration,genre and description!
++  Women are more likely to buy compared to man (~65%)
++  Maharashtra, Karnataka and Utter Pradesh are top 3 states (~35%)
++  Adult age group (30-40yrs) is max contributeing (~50%)
++  Amazon, Flipkart and Myntra channel are max contributing (~80)
++  Target Women cusotmers of Age Group(30-49 yrs) living in Maharashtra, Karnataka and Uttar 
+    Pradesh by showing ads/offers/coupons avilable on Amazon, Flipkart, Myntra 
 +   etc.
 
-## License
----
-+ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
 
